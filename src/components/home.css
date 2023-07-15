@@ -1,0 +1,28 @@
+/* home.css */
+
+.container {
+    margin-top: 4rem;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+  }
+  
+  .btn_1 {
+    padding: 1rem 2rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 0.5rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn_1:hover {
+    background-color: #0056b3;
+  }
+  
