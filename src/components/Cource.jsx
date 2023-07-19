@@ -8,12 +8,12 @@ export default function Course(props) {
         <h1>Cources</h1>
       <div className="card text-center">
         <div className="card-header">
-          Featured
+          Cource 1
         </div>
         <div className="card-body">
-          <h5 className="card-title">Special title treatment</h5>
-          <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
-          <a href="#" className="btn btn-primary">Go somewhere</a>
+          <h5 className="card-title">Java Learning</h5>
+          <p className="card-text">Java is a popular programming language. Java is used to develop mobile apps, web apps, desktop apps, games and much more.</p>
+          <a href="#" className="btn btn-primary">Start Learning</a>
         </div>
         <div className="card-footer text-body-secondary">
           2 days ago
@@ -21,12 +21,12 @@ export default function Course(props) {
       </div>  
       <div className="card text-center mt-3">
         <div className="card-header">
-          Featured
+          Cource 2
         </div>
         <div className="card-body">
-          <h5 className="card-title">Special title treatment</h5>
-          <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
-          <a href="#" className="btn btn-primary">Go somewhere</a>
+          <h5 className="card-title">Python</h5>
+          <p className="card-text">Python is a popular programming language. Python can be used on a server to create web applications. </p>
+          <a href="#" className="btn btn-primary">Start Learning</a>
         </div>
         <div className="card-footer text-body-secondary">
           2 days ago
@@ -37,9 +37,9 @@ export default function Course(props) {
           Featured
         </div>
         <div className="card-body">
-          <h5 className="card-title">Special title treatment</h5>
-          <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
-          <a href="#" className="btn btn-primary">Go somewhere</a>
+          <h5 className="card-title">Web Development</h5>
+          <p className="card-text">Web development refers to the creating, building, and maintaining of websites.</p>
+          <a href="#" className="btn btn-primary">Start Learning</a>
         </div>
         <div className="card-footer text-body-secondary">
           2 days ago
